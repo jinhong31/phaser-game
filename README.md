@@ -27,7 +27,9 @@ git clone https://github.com/leopard1218/phaser-game.git
 
 1. Run `npm install` to install all dependencies
 
-2. Run `npm run start` to start the local server
+2. Run `npm start` to start the local server
+
+3. Run `npm run build` to build
 
 <!-- ## Roadmap -->
 
