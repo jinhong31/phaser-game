@@ -9,7 +9,7 @@ module.exports = {
   mode: 'development',
   entry: ['@babel/polyfill', './src/index.js'],
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'public'),
     filename: 'main.js'
   },
   plugins: [
